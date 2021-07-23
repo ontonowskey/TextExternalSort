@@ -1,0 +1,15 @@
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.csproj.AssemblyReference.cache
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.Form1.resources
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.csproj.GenerateResource.cache
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.AssemblyInfoInputs.cache
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.AssemblyInfo.cs
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.csproj.CoreCompileInputs.cache
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.exe
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.deps.json
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.runtimeconfig.json
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.runtimeconfig.dev.json
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.dll
+F:\MVSRepos\TxtSort\TxtSort\bin\Debug\netcoreapp3.1\TxtSort.pdb
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.dll
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.pdb
+F:\MVSRepos\TxtSort\TxtSort\obj\Debug\netcoreapp3.1\TxtSort.genruntimeconfig.cache
